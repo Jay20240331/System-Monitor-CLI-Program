@@ -12,7 +12,7 @@ A simple command-line tool for monitoring system performance in real time.
 - .NET
 
 ## How to Run
-1. Clone the repository: [https://github.com/Jay20240331/System-Monitor-CLI-Program](url)
+1. Clone the repository: https://github.com/Jay20240331/System-Monitor-CLI-Program
 
 Navigate to the project folder:  cd SystemMonitorCLI
 
