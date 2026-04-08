@@ -4,7 +4,7 @@ namespace SystemMonitorCLI.Services
 {
     public class AlertService
     {
-        // 閾值提取為常數，方便日後調整或改為設定檔
+        
         private const double CpuThreshold = 80.0;
         private const double LowMemoryThresholdMb = 500.0;
 
